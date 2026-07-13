@@ -1,0 +1,9 @@
+cat > .gitignore << 'EOF'
+.env
+.venv/
+env/
+__pycache__/
+*.рус
+EOF
+.env
+env/
