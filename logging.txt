@@ -1,0 +1,17 @@
+Your Conversation Log:
+You: Hi I am Nurgazy
+End of ConversationAI: Hello Nurgazy! It's nice to meet you. Is there something I can help you with or would you like to chat?
+
+End of ConversationYou: goog mornirng
+End of ConversationAI: Good morning to you too, Nurgazy! I hope you're having a great start to the day. How's everything going so far?
+
+End of ConversationYou: tell me a joke
+End of ConversationAI: Here's one:
+
+What do you call a fake noodle?
+
+An impasta!
+
+Hope that made you laugh, Nurgazy! Do you want to hear another one?
+
+End of Conversation
